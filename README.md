@@ -21,8 +21,7 @@ cmake ..
 # Компиляция
 cmake --build .
 # Запуск программы
-./ascii_paint          # Linux/macOS
-./ascii_paint.exe      # Windows
+./ascii_paint.exe
 
 ## Пример работы программы
 <img width="787" height="528" alt="image" src="https://github.com/user-attachments/assets/33f189fd-14ec-45ea-ac6a-4013900acf82" />
