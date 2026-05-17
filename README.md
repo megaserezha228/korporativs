@@ -49,6 +49,7 @@ g++ -std=c++17 tests/test_canvas_catch2.cpp src/Canvas.cpp -o run_tests.exe
 
 # Запуск тестов
 ./run_tests.exe
+```
 
 ### Покрытие тестами
 
